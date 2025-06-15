@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Bullet
+  - EnemyBullet
   - 
   - 
   - 
@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Terrain
+    uniqueID: 852734641
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Decor
+    uniqueID: 2997420521
+    locked: 0
+  - name: Pickup
+    uniqueID: 1971545319
+    locked: 0
+  - name: Bullet
+    uniqueID: 3294590849
+    locked: 0
+  - name: Characters
+    uniqueID: 3767189883
     locked: 0
